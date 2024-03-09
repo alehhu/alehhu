@@ -1,4 +1,4 @@
-#**Hi there 👋**
+# **Hi there 👋**
 
 My name is Ale and I'm a computer science student from Italy. Here's some info about me!
 
