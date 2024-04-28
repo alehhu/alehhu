@@ -3,7 +3,7 @@
 My name is Ale and I'm a computer science student from Italy. Here's some info about me!
 
 ⚡ Work experience:
-nothing yet! but I'm trying to build my portfolio to land my first internship!
+nothing yet! but I'm building my portfolio to land my first internship!
 
 🌱 Interests:
 Full stack Web development, mobile (iOS) development
