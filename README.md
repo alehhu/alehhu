@@ -1,11 +1,11 @@
 ### **Hi there 👋**
 
-My name is Ale and I'm a computer science student from Italy. Here's some info about me!
+My name is Ale and I'm a second year computer engineering student from Italy. Here's some info about me!
 
 ⚡ Work experience:
-nothing yet! but I'm building my portfolio to land my first internship!
+nothing yet! but I'm interested in open source code and contributing to it.
 
 🌱 Interests:
-Building products, Engineering, Technology, full-stack development
+Building products, Engineering, Technology.
 
 💬 Reach me by email or LinkedIn! alehhhhu@gmail.com | www.linkedin.com/in/alessandrohu
