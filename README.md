@@ -4,7 +4,6 @@ Hi there! 👋 I'm Alessandro Hu, an **Engineering Science** student at the Poly
 
 Outside of academics, I love exploring finance, economics, history, politics, literature.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=alehhu&show_icons=true&theme=holi)
 <!--- ## Experience
 
