@@ -15,6 +15,7 @@ Outside of academics, I love exploring finance, economics, history, politics, li
 ### Tech Stack
 <!--* Python :snake: (NumPy, PyTorch :fire:, JAX, Pandas :panda_face:, ...), C/C++, Julia, ...
 -->
+* C/C++, Java, Go, Python :snake:
 * Git, GitHub :octocat:, Docker :whale:, K8s :wheel_of_dharma:
 * Linux (Arch) :penguin:, Windows :window:, 
 * LaTeX :bird:, Overleaf :leaves:, Markdown
