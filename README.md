@@ -13,7 +13,13 @@ Outside of academics, I love exploring finance, economics, history, politics, li
 
 
 ### Tech Stack
+<!--* Python :snake: (NumPy, PyTorch :fire:, JAX, Pandas :panda_face:, ...), C/C++, Julia, ...
+-->
+* Git, GitHub :octocat:, Docker :whale:, K8s
+* Linux (Arch) :penguin:, Windows :window:, 
+* LaTeX :bird:, Overleaf :leaves:, Markdown
 
+My favorite editor is Vim, and I use daily macOS and Linux.
 
 ### Contact Me
 - [Contact me through email](mailto:alessandro.hu999@gmail.com)
