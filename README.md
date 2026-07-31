@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Alessandro Hu, a **Computer Engineering** bachelor student at the Polytechnic University Of Milan (2026). I'm passionate about physics and technology, affascinated by science research, and I'm currently diving more into coding applications that people actually use.
 
-In the next year I'll pursue a master in Mathematics, since I'm interested in the foundational theory behind AI, and science. 
+In the next year I'll pursue a master in Mathematics, since I'm interested in the foundational principles behind AI, and science. 
 I wish to do great work someday. 
 
 Outside of academics, I love exploring finance, economics, history, politics, literature.
